@@ -26,8 +26,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.0736395"
-     inkscape:cx="161.73486"
-     inkscape:cy="176.17625"
+     inkscape:cx="35.26274"
+     inkscape:cy="207.05283"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -108,13 +108,19 @@
        xml:space="preserve"
        style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:285.99998951%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Copperplate;-inkscape-font-specification:Copperplate"
        id="text3948"
-       sodipodi:linespacing="285.99999%"><textPath
+       sodipodi:linespacing="285.99999%"
+       transform="matrix(0.9823372,-0.18711926,0.18711926,0.9823372,-160.47527,48.042484)"><textPath
          xlink:href="#path3945"
          id="textPath3952"
-         style="font-size:32px;line-height:0%;letter-spacing:4.95px"><tspan
-   id="tspan3950"
-   style="font-size:32px;line-height:0%;letter-spacing:4.95px"
-   dy="7">Maestri Impeccabili nell'Arte dell'Ospitalità</tspan></textPath></text>
+         style="font-size:32px;line-height:0%;letter-spacing:4.94999981px"><tspan
+           id="tspan3950"
+           style="font-size:32px;line-height:0%;letter-spacing:4.94999981px"
+           dy="0 -7.3400002 7"><tspan
+             style="font-size:16px;font-family:miao;-inkscape-font-specification:miao"
+             id="tspan3016"
+             dy="7.3400002">*</tspan><tspan
+             style="letter-spacing:4.78000021px"
+             id="tspan3026"> Maestri Impeccabili nell'Arte dell'Ospitalità</tspan></tspan></textPath></text>
     <path
        sodipodi:type="arc"
        style="fill:none;stroke:#00b0dc;stroke-width:1.77165353;stroke-miterlimit:4;stroke-opacity:0.17333332;stroke-dasharray:none"
@@ -154,7 +160,7 @@
            height="385.28525"
            x="-203.50964"
            y="77.715645" /></flowRegion><flowPara
-         id="flowPara3069"></flowPara></flowRoot>    <g
+         id="flowPara3069" /></flowRoot>    <g
        transform="translate(490.65728,721.48193)"
        style="font-size:300px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:DecoTech TL;-inkscape-font-specification:DecoTech TL"
        id="flowRoot3075" />
@@ -168,7 +174,7 @@
            height="171.37968"
            x="-372.56451"
            y="58.141895" /></flowRegion><flowPara
-         id="flowPara3089"></flowPara></flowRoot>    <g
+         id="flowPara3089" /></flowRoot>    <g
        style="font-size:300px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:DecoTech TL;-inkscape-font-specification:DecoTech TL"
        id="text3091"
        transform="translate(7.8598414,-7.8685072)" />
