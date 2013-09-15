@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.2 r9819"
-   sodipodi:docname="inviti_back.svg">
+   sodipodi:docname="inviti_back_EN.svg">
   <title
      id="title3008">Wedding Invitation</title>
   <defs
@@ -250,7 +250,7 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot4017"
-       style="font-size:21.56186866999999907px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#323232;fill-opacity:1;stroke:none;font-family:Copperplate;-inkscape-font-specification:Copperplate"
+       style="font-size:21.56186867px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#323232;fill-opacity:1;stroke:none;font-family:Copperplate;-inkscape-font-specification:Copperplate"
        transform="matrix(1.1142196,0,0,1.5134654,-5.6209759,682.50219)"><flowRegion
          id="flowRegion4019"><rect
            id="rect4021"
@@ -258,9 +258,9 @@
            height="28.541033"
            x="33.774967"
            y="17.222593"
-           style="font-size:21.56186866999999907px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Copperplate;-inkscape-font-specification:Copperplate;fill:#323232;fill-opacity:1" /></flowRegion><flowPara
+           style="font-size:21.56186867px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#323232;fill-opacity:1;font-family:Copperplate;-inkscape-font-specification:Copperplate" /></flowRegion><flowPara
          id="flowPara4023"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Copperplate;-inkscape-font-specification:Copperplate;fill:#323232;fill-opacity:1">Informazioni Utili</flowPara></flowRoot>    <flowRoot
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#323232;fill-opacity:1;font-family:Copperplate;-inkscape-font-specification:Copperplate">Useful Information</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot4025"
        style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:DecoTech;font-style:normal;font-weight:normal;font-size:20px;line-height:125%;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:DecoTech;font-stretch:normal;font-variant:normal"><flowRegion
